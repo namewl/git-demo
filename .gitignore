@@ -1,0 +1,5 @@
+# 可以将不想被管理的文件或是文件夹写在这里 
+# node_modules表示这个名字的文件夹不想被管理 test表示test这个文件夹不想被管理 test.html表示这个文件不想被管理
+node_modules
+test
+test.html
